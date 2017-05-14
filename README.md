@@ -3,4 +3,5 @@
 [Assignment week 4](https://github.com/florisvanlaarhoven/assignments/blob/master/Assignment_week_4(1).ipynb)
 [Assignment week 5](https://github.com/florisvanlaarhoven/assignments/blob/master/Assignment_week_5.ipynb)
 [Assignment week 6](https://github.com/florisvanlaarhoven/assignments/blob/master/assignment4(1).ipynb)
+[Assignment week 8](https://github.com/florisvanlaarhoven/assignments/blob/master/assignment5.ipynb)
 this contains my assignments
